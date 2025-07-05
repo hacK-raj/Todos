@@ -32,6 +32,9 @@ A simple and responsive **To-Do List** application built using **HTML**, **CSS**
 ## 📁 Project Structure
 
 todo-list/
+
 ├── index.html
+
 ├── style.css
+
 └── script.js
